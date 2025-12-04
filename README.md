@@ -1,5 +1,6 @@
-## Hi there 👋
+## Marius 't Hart
 
+Hi there 👋
 I'm a researcher working on understanding human visual perception and sensorimotor learning. I currently work at York University in two labs, and I got my PhD in Germany.
 
 ### 🔗 Find me online
