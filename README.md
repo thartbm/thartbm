@@ -13,14 +13,12 @@ I'm a researcher working on understanding human visual perception and sensorimot
 
 ## Selected Publications
 
-Here are five representative papers showcasing my diverse research interests and collaborations:
+Here are four representative papers showcasing my diverse research interests and collaborations:
 
-1. Ruttle JE **’t Hart BM** Henriques DYP (2021). <u>Implicit motor learning within three trials</u> *Scientific Reports*. https://doi.org/10.1038/s41598-021-81141-y
+1. **’t Hart BM** Taqvi U Gastrock RQ Ruttle JE Modchalingam S et al. (2024). <u>Measures of implicit and explicit adaptation do not linearly add</u> *eNeuro*. https://doi.org/10.1523/ENEURO.0143-23.2024
 
-2. **’t Hart BM** Taqvi U Gastrock RQ Ruttle JE Modchalingam S et al. (2024). <u>Measures of implicit and explicit adaptation do not linearly add</u> *eNeuro*. https://doi.org/10.1523/ENEURO.0143-23.2024
+2. Özkan M Stuart A **’t Hart BM** Wexler M Cavanagh P (2021). <u>Paradoxical stabilization of relative position in moving frames</u> *Proceedings of the National Academy of Sciences*. https://doi.org/10.1073/pnas.2101826118
 
-3. Özkan M Stuart A **’t Hart BM** Wexler M Cavanagh P (2021). <u>Paradoxical stabilization of relative position in moving frames</u> *Proceedings of the National Academy of Sciences*. https://doi.org/10.1073/pnas.2101826118
+3. **’t Hart BM** Einhäuser W (2012). <u>Mind the step: complementary effects of an implicit task on eye and head movements in real-life gaze allocation</u> *Experimental Brain Research*. https://doi.org/10.1007/s00221-012-3254-7
 
-4. **’t Hart BM** Einhäuser W (2012). <u>Mind the step: complementary effects of an implicit task on eye and head movements in real-life gaze allocation</u> *Experimental Brain Research*. https://doi.org/10.1007/s00221-012-3254-7
-
-5. Preuschoff K **’t Hart BM** Einhäuser W (2011). <u>Pupil Dilation Signals Surprise: Evidence for Noradrenaline’s Role in Decision Making</u> *Frontiers in Neuroscience*. https://doi.org/10.3389/fnins.2011.00115
+4. Preuschoff K **’t Hart BM** Einhäuser W (2011). <u>Pupil Dilation Signals Surprise: Evidence for Noradrenaline’s Role in Decision Making</u> *Frontiers in Neuroscience*. https://doi.org/10.3389/fnins.2011.00115
